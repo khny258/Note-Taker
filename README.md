@@ -28,15 +28,19 @@ This application will use an express backend and save and retrieve note data fro
         
 ## Installation
         
-To install necessary dependencies, run the following command:
+To install necessary dependencies, run the following commands:
         
 ```
+npm init --yes 
 npm install
 ```
         
 ## Usage
 
-Use npm init --yes first then npm install
+- Clone https://github.com/khny258/Note-Taker to a local directory
+- Run npm init --yes 
+- Then run npm install
+- Open browser and go to localhost:8080
         
 ## License
 
