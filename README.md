@@ -1,6 +1,13 @@
 
 # Note Taker
 
+<img src="public/assets/notetaker.gif">
+<br>
+<img src="public/assets/screenshot.png">
+<br>
+<img src="public/assets/screenshot2.png">
+<br>
+
 ## Description
 
 This application will use an express backend and save and retrieve note data from a JSON file.
